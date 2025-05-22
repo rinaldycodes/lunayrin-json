@@ -1,6 +1,6 @@
 {
-  "appName": "ChatLuna",
-  "welcomeMessage": "Selamat datang di ChatLuna! 🌙✨",
+  "appName": "Lunayrin",
+  "welcomeMessage": "Selamat datang di Lunayrin! 🌙✨",
   "messages": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "sender": "system",
-      "text": "Ayo mulai chat dan temukan teman baru di ChatLuna!",
+      "text": "Ayo mulai chat dan temukan teman baru di Lunayrin!",
       "timestamp": "2025-05-22T10:01:00Z"
     }
   ]
